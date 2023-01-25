@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-size: cover;
+
+
+background-image:url(https://images3.alphacoders.com/633/633288.png);
+background-repeat: no-repeat;
+background-attachment: fixed;
 }
 
 code {

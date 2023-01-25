@@ -1,0 +1,19 @@
+.me {
+    color: rgb(7, 7, 7);
+    margin-top: 50px;
+    padding-top: 20px;
+    border: 4px solid rgb(7, 7, 7);
+    display: flex;
+    justify-content:center;
+}
+
+.ab {
+    margin: 10px;
+    justify-content:center;
+}
+
+
+.like {
+    color: rgb(0, 0, 0);
+    text-decoration: none
+}
