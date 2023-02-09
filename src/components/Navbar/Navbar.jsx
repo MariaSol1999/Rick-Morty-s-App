@@ -22,6 +22,7 @@ export default function Navbar(props){
             {/* <Button onClick={() => props.onClose(props.id)}>LogOut</Button> */}
             <Link to='/about'>About</Link>
             <Link to='/home'>Home</Link>
+            <Link to='/favorites'>Favorites</Link>
         </div>
     );
 }
